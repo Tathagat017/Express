@@ -1,0 +1,13 @@
+{
+  "students": [
+    { "name": "John", "city": "New York", "id": 1 },
+    { "name": "Winston Churchil", "city": "London", "id": 2 },
+    { "name": "Anand", "city": "Bombay", "id": 3 },
+    { "name": "Anandi", "city": "Bombay" }
+  ],
+  "teachers": [
+    { "name": "Karl Marx", "city": "London", "id": 1 },
+    { "name": "Joseph Stalin", "city": "Moscow", "id": 2 },
+    { "name": "Mahatma Gandhi", "city": "Ahemdabad", "id": 3 }
+  ]
+}
