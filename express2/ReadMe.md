@@ -1,0 +1,1 @@
+Middlware : - It is a function that is permforming a specific task and is present between requests and responses and it has access to both request object and the response object. --> like amazon delivery guy who has the address for both amazon warehouse and our house.
