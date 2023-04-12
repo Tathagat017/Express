@@ -25,13 +25,18 @@ app.post("/addstudent", (req, res) => {
   });
 });
 
-app.update("/updatestudent", (req, res) => {
-  const data = JSON.parse(fs.readFileSync("./db.json", "utf-8"));
-  for (let i = 0; i <= data.length - 1; i++) {
-    if (data.students[i].name == "Anand") {
-      data.students[i].city = req.body.city;
+app.update("/updatestudent/:id", (req, res) => {
+  let data = JSON.parse(fs.readFileSync("./db.json", "utf-8"));
+
+  const { id } = req.params;
+  const { name, city } = req.body;
+  data = data.map((el) => {
+    if (el.id === id) {
+      return (el.name = name);
+    } else {
+      return el;
     }
-  }
+  });
   fs.writeFile("./db.json", JSON.stringify(data), (err) => {
     if (err) {
       res.send(err);
