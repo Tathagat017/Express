@@ -1,0 +1,127 @@
+5.371199995279312 msRoute visited : / and Method : GET at Wed Apr 12 2023 22:10:57 GMT+0530 (India Standard Time)
+4.877599999308586 msRoute visited : /data and Method : GET at Wed Apr 12 2023 22:43:55 GMT+0530 (India Standard Time)
+8.155499994754791 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:44:25 GMT+0530 (India Standard Time)
+6.078700006008148 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:44:39 GMT+0530 (India Standard Time)
+4.696399986743927 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:44:52 GMT+0530 (India Standard Time)
+4.97129999101162 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:44:59 GMT+0530 (India Standard Time)
+4.561100006103516 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:45:10 GMT+0530 (India Standard Time)
+5.773499995470047 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:46:05 GMT+0530 (India Standard Time)
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:46:05 GMT+0530 (India Standard Time)
+6.1891999989748 ms
+4.277599990367889 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:46:21 GMT+0530 (India Standard Time)
+6.140100002288818 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:46:37 GMT+0530 (India Standard Time)
+6.736600011587143 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:46:59 GMT+0530 (India Standard Time)
+8.375200003385544 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:47:03 GMT+0530 (India Standard Time)
+5.250400006771088 ms
+Route visited : /data and Method : GET at Wed Apr 12 2023 22:47:17 GMT+0530 (India Standard Time)
+5.3807999938726425 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:31:40 GMT+0530 (India Standard Time)
+7.884300008416176 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:33:01 GMT+0530 (India Standard Time)
+11.123500004410744 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:33:01 GMT+0530 (India Standard Time)
+7.973699986934662 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:33:35 GMT+0530 (India Standard Time)
+5.025100007653236 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:33:35 GMT+0530 (India Standard Time)
+1.8068000078201294 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:36:23 GMT+0530 (India Standard Time)
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:36:23 GMT+0530 (India Standard Time)
+4.981400012969971 ms
+2.713599994778633 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:36:44 GMT+0530 (India Standard Time)
+2.4802999943494797 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:36:44 GMT+0530 (India Standard Time)
+3.973700001835823 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:37:35 GMT+0530 (India Standard Time)
+2.3518999963998795 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:37:35 GMT+0530 (India Standard Time)
+2.4150999933481216 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:55:36 GMT+0530 (India Standard Time)
+6.360400006175041 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 02:56:01 GMT+0530 (India Standard Time)
+5.563300013542175 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:00:41 GMT+0530 (India Standard Time)
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:00:41 GMT+0530 (India Standard Time)
+18.096500009298325 ms
+3.508199989795685 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:10:38 GMT+0530 (India Standard Time)
+8.68860000371933 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:10:57 GMT+0530 (India Standard Time)
+4.233900010585785 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:11:15 GMT+0530 (India Standard Time)
+4.363400012254715 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:11:44 GMT+0530 (India Standard Time)
+8.344300001859665 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:12:19 GMT+0530 (India Standard Time)
+3.591600000858307 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:12:38 GMT+0530 (India Standard Time)
+4.724100008606911 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:12:40 GMT+0530 (India Standard Time)
+4.4534000009298325 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:12:40 GMT+0530 (India Standard Time)
+4.731700003147125 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:13:09 GMT+0530 (India Standard Time)
+3.7927999943494797 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:13:11 GMT+0530 (India Standard Time)
+3.445699989795685 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:13:11 GMT+0530 (India Standard Time)
+1.741799995303154 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:13:20 GMT+0530 (India Standard Time)
+6.05349999666214 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:13:55 GMT+0530 (India Standard Time)
+6.217700004577637 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:14:11 GMT+0530 (India Standard Time)
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:14:11 GMT+0530 (India Standard Time)
+2.1028999984264374 ms
+4.636500000953674 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:14:53 GMT+0530 (India Standard Time)
+3.17399999499321 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:14:53 GMT+0530 (India Standard Time)
+2.3782999962568283 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:15:11 GMT+0530 (India Standard Time)
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:15:11 GMT+0530 (India Standard Time)
+8.275299996137619 ms
+4.2423000037670135 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:15:14 GMT+0530 (India Standard Time)
+1.5296999961137772 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:15:14 GMT+0530 (India Standard Time)
+2.2550999969244003 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:15:16 GMT+0530 (India Standard Time)
+2.428299993276596 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:15:16 GMT+0530 (India Standard Time)
+2.0902999937534332 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:15:58 GMT+0530 (India Standard Time)
+2.142899990081787 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:15:58 GMT+0530 (India Standard Time)
+3.036100000143051 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:20:38 GMT+0530 (India Standard Time)
+Route visited : /data and Method : GET at Thu Apr 13 2023 03:20:38 GMT+0530 (India Standard Time)
+5.723300009965897 ms
+2.7983999997377396 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 12:34:38 GMT+0530 (India Standard Time)
+Route visited : /data and Method : GET at Thu Apr 13 2023 12:34:38 GMT+0530 (India Standard Time)
+12.609999999403954 ms
+2.3766999989748 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 12:57:59 GMT+0530 (India Standard Time)
+10.911100000143051 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 12:57:59 GMT+0530 (India Standard Time)
+1.6009999960660934 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 12:58:06 GMT+0530 (India Standard Time)
+Route visited : /data and Method : GET at Thu Apr 13 2023 12:58:06 GMT+0530 (India Standard Time)
+2.5538000017404556 ms
+1.7985000014305115 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 12:58:26 GMT+0530 (India Standard Time)
+1.9108000099658966 ms
+Route visited : /data and Method : GET at Thu Apr 13 2023 12:58:26 GMT+0530 (India Standard Time)
+2.4679999947547913 ms
